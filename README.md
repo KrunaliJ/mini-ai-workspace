@@ -12,9 +12,11 @@ Currently, two official plugins are available:
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
- Mini AI Workspace
-A simple React + Tailwind demo that showcases a memory-first UX.
-Features:
+ ## Mini AI Workspace
+ 
+## A simple React + Tailwind demo that showcases a memory-first UX.
+
+## Features:
 
 1)Chat area (mock notes from alpie_frontend_dataset.json)
 
@@ -26,10 +28,10 @@ Features:
 
 5)Keyboard shortcut (P) to pin/unpin notes
 
-*Getting Started*
+## *Getting Started*
 1. Clone or download this project
 
-git clone https://github.com/your-username/mini-ai-workspace.git
+git clone https://github.com/KrunaliJ/mini-ai-workspace.git
 
 cd mini-ai-workspace
 
