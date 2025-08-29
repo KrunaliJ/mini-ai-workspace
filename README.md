@@ -55,7 +55,7 @@ Open it in your browser.
 
 npm run build
 
-📂 Project Structure
+## 📂 Project Structure
 
 mini-ai-workspace/
 
