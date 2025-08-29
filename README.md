@@ -79,3 +79,12 @@ mini-ai-workspace/
 ├── package.json
 
 └── README.md
+
+
+  ## overview of output
+
+<img width="1906" height="970" alt="Screenshot 2025-08-30 005530" src="https://github.com/user-attachments/assets/6e2b7fd7-b596-4a83-b3c0-58fe4a0cfc9f" />
+
+<img width="1885" height="998" alt="Screenshot 2025-08-30 005551" src="https://github.com/user-attachments/assets/ac7cbae7-eb38-4930-b78a-dc18c64aef50" />
+
+  
